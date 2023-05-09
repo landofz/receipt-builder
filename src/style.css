@@ -1,0 +1,12 @@
+.content-wrapper {
+  display: flex;
+  column-gap: 1em;
+}
+.output {
+  flex: 1 auto;
+}
+#output-box {
+  border: 1px solid blue;
+  min-height: 20em;
+  min-width: 15em;
+}
